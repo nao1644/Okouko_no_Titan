@@ -7,3 +7,6 @@ https://www.google.com/maps/d/edit?mid=1Tts9xraWchU3rs048xaVS_XgXkqifWo&usp=shar
 
 ・東北  
 https://www.google.com/maps/d/u/0/edit?mid=1itFlWSIkNbDBpxjvc5LF4_wUEXrTnuE&usp=sharing
+
+作成予定：東京, 京都, 大阪, 兵庫, 関東, 中部, 中国, 四国, 九州, 沖縄
+宿泊場所編も作成予定。
