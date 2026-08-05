@@ -8,7 +8,7 @@ https://www.google.com/maps/d/edit?mid=1Tts9xraWchU3rs048xaVS_XgXkqifWo&usp=shar
 ・東北  
 https://www.google.com/maps/d/u/0/edit?mid=1itFlWSIkNbDBpxjvc5LF4_wUEXrTnuE&usp=sharing
 
-・京都 （早期公開） 
+・京都 （早期公開）  
 https://www.google.com/maps/d/u/0/edit?mid=1S6bKMtkMbZP9VHT1zD4-48MoxQvxoVc&usp=sharing
 
 作成予定：東京, 大阪, 兵庫, 関東, 中部, 中国, 四国, 九州, 沖縄  
